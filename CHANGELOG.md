@@ -1,0 +1,3 @@
+- updated read.me
+- works perfectly after Monday
+- css commit
